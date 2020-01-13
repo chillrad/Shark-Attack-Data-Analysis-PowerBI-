@@ -1,0 +1,2 @@
+# Shark-Attack-Data-Analysis-PowerBI-
+This was for a final project in a class. We were given the opportunity to use any data set we wanted, analyze it, write a report on it, and present out findings. I chose the shark attack data because I am interested in surfing and studied abroad in Australia. I wanted to see if shark attacks are something that is really worth worrying about and if there were any trends I could find that would help people to mitigate their risk.
